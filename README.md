@@ -56,7 +56,9 @@ These can be done in the code cell by starting the command with !
 
 ### References
 *[Colab begineers guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
+
 *[GPU in colab](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html/2)
+
 *[Pytorch introduction with Colab](https://colab.research.google.com/drive/1gJAAN3UI9005ecVmxPun5ZLCGu4YBtLo)
 
 
