@@ -17,8 +17,8 @@ This repository contains my notes on getting started with google colab and two p
 ![Add colab](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/12_ColabSearch.png) 
 * Now you can find Colaboratory in your apps.
 ![Find colab in drive](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/2_colaboratoryInDrive.png) 
-* And like normal drive applications by clicking on it you can start a new project or open an existing project. 
-![Start a colab project](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/2_colaboratoryInDrive.png)
+* And like normal drive applications by clicking on **NEW** &rarr; **More** &rarr; **Colaboratory** you can start a new project or open an existing project by 
+![Start a colab project](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/13_ExistingProject.png)
 
 ### Colab Basics
 * Goto Tools &rarr; Preferences
@@ -32,8 +32,9 @@ Click in your Colab Project on
 Note: The GPU resets after every 12 Hours in collab. Therefore it is important to keep on saving checkpoints to resume training later.
 
 * Code or text cell
- * Like jupyter notebook each cell can be used as a code or text cell. You can __insert__ cells by adding them via clicking  on the + sign here
- ![Insert cell 1](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/5_AddingCells.png)
+Like jupyter notebook each cell can be used as a code or text cell. 
+ * You can __insert__ cells by adding them via clicking  on the + sign here
+  ![Insert cell 1](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/5_AddingCells.png)
   OR
   By clicking on Insert 
   ![Insert cell 2](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/6_Bars.png)
