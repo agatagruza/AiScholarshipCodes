@@ -37,8 +37,8 @@ Like jupyter notebook each cell can be used as a code or text cell.
      ![Insert cell 1](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/5_AddingCells.png)
      OR
      
-     By clicking on Insert     
-     ![Insert cell 2](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/6_Bars.png)
+      By clicking on Insert     
+      ![Insert cell 2](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/6_Bars.png)
   - To __delete__ a cell
    ![Delete cell](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/7_DeleteCell.png)
   - To __run__ a cell
