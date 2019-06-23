@@ -40,7 +40,7 @@ Like jupyter notebook each cell can be used as a code or text cell.
      ![Insert cell 2](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/6_Bars.png)
   - To __delete__ a cell
    ![Delete cell](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/7_DeleteCells.png)
- * To __run__ a cell
+  - To __run__ a cell
    ![Run cell 1](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/8_RunningACell.png)
    OR
    Goto Runtime and select **Run all** or from other desired options.
@@ -56,10 +56,8 @@ These can be done in the code cell by starting the command with !
 ![ConnectToHost](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/11_connectedToHost.png)
 
 ### References
-*[Colab begineers guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
-
-*[GPU in colab](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html/2)
-
-*[Pytorch introduction with Colab](https://colab.research.google.com/drive/1gJAAN3UI9005ecVmxPun5ZLCGu4YBtLo)
+* [Colab begineers guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
+* [GPU in colab](https://www.kdnuggets.com/2018/02/google-colab-free-gpu-tutorial-tensorflow-keras-pytorch.html/2)
+* [Pytorch introduction with Colab](https://colab.research.google.com/drive/1gJAAN3UI9005ecVmxPun5ZLCGu4YBtLo)
 
 
