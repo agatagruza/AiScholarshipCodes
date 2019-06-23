@@ -33,12 +33,12 @@ Note: The GPU resets after every 12 Hours in collab. Therefore it is important t
 
 * Code or text cell
 Like jupyter notebook each cell can be used as a code or text cell. 
- * You can __insert__ cells by adding them via clicking  on the + sign here
-  ![Insert cell 1](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/5_AddingCells.png)
-  OR
-  By clicking on Insert 
-  ![Insert cell 2](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/6_Bars.png)
- * To __delete__ a cell
+   -  You can __insert__ cells by adding them via clicking  on the + sign here
+     ![Insert cell 1](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/5_AddingCells.png)
+     OR
+     By clicking on Insert 
+     ![Insert cell 2](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/6_Bars.png)
+  - To __delete__ a cell
    ![Delete cell](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/7_DeleteCells.png)
  * To __run__ a cell
    ![Run cell 1](https://github.com/DimpleB0501/AiScholarshipCodes/blob/master/Images/8_RunningACell.png)
